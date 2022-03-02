@@ -15,7 +15,7 @@ class Body2 extends React.Component{
                     </div>
                     <div className="row mt-5 mx-4">
                         <div className="col-sm-4 text-center">
-                            <img src={pic7} />
+                            <img src={pic7} alt="John's testament"/>
                             <h5>Jhon Smith</h5>
                             <p>Amet minim mollit non desert ullacon <br /> est sit aliqua
                             dolor do amet sint. Velit officia consequat </p>
