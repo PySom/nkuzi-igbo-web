@@ -15,15 +15,15 @@ class Body extends React.Component {
                             <h1>Amet minim mollit non desert ullacon est sit aliqua</h1>
                             <p>Our mission is to make the learming of Igbo<br/>
                              language fun and accessible to all.</p>
-                            <img src= {pic12} />
+                            <img src= {pic12} alt='Nkuzi description' />
                         </div>
                         <div className="col-lg-6">
-                            <img src= {pic1} height= {500}/>
+                            <img src= {pic1} alt='Nkuzi description' height= {500}/>
                         </div>
                     </div>
                     <div className="row mt-5">
                         <div className="col-lg-6">
-                            <img src= {pic2} height= {500}/>
+                            <img src= {pic2} alt='Nkuzi description' height= {500}/>
                         </div>
                         <div className="col-lg-6 mt-5">
                             <h1>Main Feature</h1>

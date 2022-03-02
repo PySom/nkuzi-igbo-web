@@ -9,8 +9,8 @@ function Nav() {
         <div className="nav">
             <div className="container mt-5">
                 <nav className="container-fluid navbar navbar-default">
-                    <a className="navbar-brand" href="#">
-                        <img src= {pic4} />
+                    <a className="navbar-brand" href="/">
+                        <img src= {pic4} alt='Nkuzi description' />
                     </a>
                     <div>
                         <button className="btn btn-danger navbar-btn">Download Now</button>

@@ -9,7 +9,7 @@ function Footer() {
         <div className="footer text-white mt-3">
             <div className="container mt-5">
                 <div className="container-fluid">
-                    <img src={pic10}/>
+                    <img src={pic10} alt='Nkuzi description'/>
                     <p>By submitting this form you agree to our terms and
                         condition and our Privacy Policy <br />
                         use and disclose your personal information including to third parties.
@@ -18,7 +18,7 @@ function Footer() {
                         <li>Privacy & Policy</li>
                         <li>Terms & Condition</li>
                     </ol>
-                    <img src= {pic11}/>
+                    <img src= {pic11} alt='Nkuzi description'/>
 
                 </div>
 

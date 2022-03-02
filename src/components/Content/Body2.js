@@ -21,20 +21,20 @@ class Body2 extends React.Component{
                             dolor do amet sint. Velit officia consequat </p>
                         </div>
                         <div className="col-sm-4 text-center">
-                            <img src={pic8} />
+                            <img src={pic8} alt='Nkuzi description' />
                             <h5>Jhon Smith</h5>
                             <p>Amet minim mollit non desert ullacon <br /> est sit aliqua
                             dolor do amet sint. Velit officia consequat </p>
                         </div>
                         <div className="col-sm-4 text-center">
-                            <img src={pic9} />
+                            <img src={pic9} alt='Nkuzi description' />
                             <h5>Jhon Smith</h5>
                             <p>Amet minim mollit non desert ullacon <br /> est sit aliqua
                             dolor do amet sint. Velit officia consequat </p>
                         </div>
                     </div>
                     <div className="text-center">
-                        <img className="img-fluid" src= {pic3}/>
+                        <img className="img-fluid" alt='Nkuzi description' src= {pic3}/>
                     </div>
                 </div>
             </div>
