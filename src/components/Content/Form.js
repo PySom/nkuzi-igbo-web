@@ -29,8 +29,8 @@ class Form extends React.Component {
                         </div>
                         <div className="container-fluid row">
                             <div>
-                                <label for="comment">Your Message*</label>
-                                <textarea class="form-control" rows="3" id="comment"></textarea>
+                                <label htmlFor="comment">Your Message*</label>
+                                <textarea className="form-control" rows="3" id="comment"></textarea>
                             </div>
                             <div>
                                 <p>By submitting this form you agree to our terms and
